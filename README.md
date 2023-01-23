@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ercancanberk
-- 👀 I’m interested in Data Science, FrontEnd and BackEnd Web Design, Business Intelligence and Data Analysis.
-- </> I'm using Python,SQLPowerBI.
-- 🌱 I’m currently learning MongoDB,PHP,React.js
+- 👀 I’m interested in Data Science,Business Intelligence,Data Analysis and FrontEnd.
+- </> I'm using Python,SQL,PowerBI, SSIS , SSRS and SSAS.
+- 🌱 I’m currently learning HTML,CSS and JavaScript.
 - 📫 Linkedln:https://www.linkedin.com/in/can-berk-ercan-789026173/
 
 <!---
